@@ -2,8 +2,6 @@
 
 - This project provides a simple file management system using NodeJs & ExpressJs.
 
-- This collection returns the current date and time to the specific folder where the file is created
-
 BASE_URL : https://nodejs-filesystem-qn62.onrender.com
 
 ***Key Features :***
